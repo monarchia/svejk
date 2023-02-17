@@ -1,8 +1,10 @@
-name: svejk
+name: Svejk
+description: |-
+  WIP theme for Monarchia
+
 type: theme
 'base theme': stable9
-starterkit: true
-version: VERSION
+version: o.1-alpha
 libraries:
   - svejk/base
   - svejk/messages
