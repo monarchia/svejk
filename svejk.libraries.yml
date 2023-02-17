@@ -1,3 +1,7 @@
+modern-normalize:
+  remote: https://github.com/sindresorhus/modern-normalize
+  css:
+    https://unpkg.com/modern-normalize: {type: external, minified: true}
 base:
   version: VERSION
   css:
